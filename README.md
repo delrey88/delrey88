@@ -1,37 +1,34 @@
 # 👋 Olá, eu sou Wellington D’el Rey  
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia. Meu foco é aprender, criar projetos práticos e compartilhar conhecimento no caminho da programação.  
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e iniciante no mundo da programação.  
+Criei este espaço no GitHub para organizar meus estudos, praticar projetos simples e mostrar minha evolução como desenvolvedor.  
 
-Atualmente estou me aprofundando em **Python** e **JavaScript**, explorando desde a lógica de programação até o desenvolvimento de aplicações web. Busco transformar ideias em código funcional e útil, sempre praticando boas práticas de desenvolvimento e explorando novas tecnologias.  
+Estou no começo da jornada, aprendendo a lógica de programação e explorando linguagens como **Python** e **JavaScript**, além de conceitos básicos de front-end. Meu objetivo é praticar todos os dias e transformar o que aprendo em pequenos projetos práticos.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
-- **Linguagens:** Python, JavaScript, Java  
-- **Front-end:** HTML, CSS, React  
-- **Back-end:** Node.js (iniciante), APIs REST  
-- **Banco de Dados:** MySQL, SQLite  
+## 🚀 Tecnologias que estou aprendendo
+- **Linguagens:** Python, JavaScript  
+- **Front-end:** HTML, CSS, React (iniciante)  
 - **Versionamento:** Git & GitHub  
-- **Outros interesses:** Docker, Linux, Cloud  
+- **Banco de Dados:** MySQL (básico)  
 
 ---
 
-## 📌 Projetos em Destaque
-- **[Calculadora de Orçamento Pessoal](https://github.com/delrey88/finance-app)**  
-  Aplicação web simples em **React** que permite registrar despesas e visualizar um resumo mensal.  
-  *Primeiro projeto prático aplicando fundamentos de front-end.*  
+## 📌 Projetos Iniciais
+- **[Calculadora de Orçamento Pessoal](https://github.com/SEU_USUARIO/finance-app)**  
+  Meu primeiro projeto em **React**, criado para treinar conceitos básicos de front-end. Permite registrar despesas e visualizar um resumo mensal.  
 
-- **[Exercícios em Python](https://github.com/delrey88/python-exercicios)**  
-  Repositório com exercícios resolvidos em Python, desde lógica básica até manipulação de arquivos e listas.  
-  *Ótimo para acompanhar minha evolução como programador.*  
+- **[Exercícios em Python](https://github.com/SEU_USUARIO/python-exercicios)**  
+  Repositório com exercícios básicos que faço durante os estudos. Ajuda a praticar lógica e melhorar cada dia um pouco.  
 
 ---
 
-## 🎯 Objetivos
-- Me tornar desenvolvedor full stack, dominando tanto front-end quanto back-end.  
-- Contribuir com projetos open source e participar de comunidades de programação.  
-- Criar soluções tecnológicas que ajudem pessoas no dia a dia.  
-- Documentar minha jornada de aprendizado no GitHub.  
+## 🎯 Objetivos como iniciante
+- Consolidar fundamentos de lógica de programação.  
+- Criar projetos pequenos para praticar e aprender na prática.  
+- Aprofundar meus conhecimentos em **Python**, **JavaScript** e futuramente em **back-end**.  
+- Construir um portfólio aqui no GitHub que mostre minha evolução passo a passo.  
 
 ---
 
@@ -39,8 +36,8 @@ Atualmente estou me aprofundando em **Python** e **JavaScript**, explorando desd
 - [LinkedIn](https://[linkedin.com/in/wellington-d-el-rey-7736a7381/)
 - [GitHub](https://github.com/delrey88)  
 - [E-mail](wellingtondelrey@gmail.com)  
-
 ---
 
-⭐ Sempre aberto a colaborações, dicas e troca de experiências no mundo da tecnologia!  
+⭐ Este perfil é o começo da minha trajetória como desenvolvedor. Cada projeto aqui representa uma etapa do aprendizado e da prática.  
+
 
